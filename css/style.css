@@ -1888,3 +1888,7 @@ li span {
   color: #4f84c4;
   font-weight: 600;
 }
+
+.blanco {
+  color: white !important;
+}
